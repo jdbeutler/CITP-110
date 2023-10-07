@@ -1,0 +1,6 @@
+Rent: 1500
+Gas: 150
+Food: 400
+Entertainment: 500
+Car payment: 650
+Savings: 500
